@@ -35,4 +35,4 @@ title: Freidae Reach Us Page
 </form>
         <script src='https://www.google.com/recaptcha/api.js' async defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer></script>
-        <script type="text/javascript" src="data/js/popup.min.js" async defer></script>
+        <script type="text/javascript" src="/data/js/popup.min.js" async defer></script>
