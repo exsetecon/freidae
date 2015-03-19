@@ -1,5 +1,5 @@
 name: "Freidae"
 description: "Freidae_ios_apps"
-baseurl: "/freidae"
+baseurl: "/"
 markdown: rdiscount
 permalink: pretty

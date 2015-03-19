@@ -5,7 +5,7 @@ title: Freidae Reach Us Page
 <div id="overlay">
     <div id="popup">
         <h4 id="sndg-msg-rchus" style="text-align:center;">Sending Message<br></h4>
-        <img src="/freidae/data/img/reach_us/ajax-loader.gif" id="loading-indicator-rchus" >
+        <img src="/data/img/reach_us/ajax-loader.gif" id="loading-indicator-rchus" >
         <div id="reachus_message" class="notice" data-captcha-failed="Incorrect captcha!" data-error="There was an error sending the message, please try again." data-success="Message successfully sent!"></div>
     </div>
 </div>
@@ -35,4 +35,4 @@ title: Freidae Reach Us Page
 </form>
         <script src='https://www.google.com/recaptcha/api.js' async defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer></script>
-        <script type="text/javascript" src="/freidae/data/js/popup.min.js" async defer></script>
+        <script type="text/javascript" src="data/js/popup.min.js" async defer></script>

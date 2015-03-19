@@ -1,24 +1,24 @@
 @font-face{
     font-family: 'Aller_Light';
-    src: url('/freidae/data/fonts/aller_light/aller_light.eot');
-    src: url('/freidae/data/fonts/aller_light/aller_light.eot?#iefix')
-    format('embedded-opentype'), url('/freidae/data/fonts/aller_light/aller_light.svg#Aller Light')
+    src: url('/data/fonts/aller_light/aller_light.eot');
+    src: url('/data/fonts/aller_light/aller_light.eot?#iefix')
+    format('embedded-opentype'), url('/data/fonts/aller_light/aller_light.svg#Aller Light')
     format('svg'),
-    url('/freidae/data/fonts/aller_light/aller_light.woff')
+    url('/data/fonts/aller_light/aller_light.woff')
     format('woff'),
-    url('/freidae/data/fonts/aller_light/aller_light.ttf')
+    url('/data/fonts/aller_light/aller_light.ttf')
     format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Aller';
-    src: url('/freidae/data/fonts/aller/aller.eot');
-    src: url('/freidae/data/fonts/aller/aller.eot?#iefix')
+    src: url('/data/fonts/aller/aller.eot');
+    src: url('/data/fonts/aller/aller.eot?#iefix')
     format('embedded-opentype'),
-    url('/freidae/data/fonts/aller.svg#Aller')
-    format('svg'), url('/freidae/data/fonts/aller/aller.woff')
-    format('woff'), url('/freidae/data/fonts/aller/aller.ttf')
+    url('/data/fonts/aller.svg#Aller')
+    format('svg'), url('/data/fonts/aller/aller.woff')
+    format('woff'), url('/data/fonts/aller/aller.ttf')
     format('truetype');
     font-weight: normal;
     font-style: normal;
