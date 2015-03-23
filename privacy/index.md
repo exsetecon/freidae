@@ -44,4 +44,4 @@ Resources & Further Information<br>
 •	Google Privacy Policy<br>
 •	Linkedin Privacy Policy<br>
 •	Mailchimp Privacy Policy<br>
-v.1.0 February, 2015 Edited & customised by: Exsete Consulting Pvt Ltd</div>
+v.1.0 February, 2015 Edited & customised by: Exsete Consulting Pvt Ltd</div><br>
