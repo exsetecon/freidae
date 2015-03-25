@@ -74,9 +74,16 @@ h3 {
     margin-top: 2%;
     width: 128px
 }
+#top_nav_signup {
+    position: fixed;
+    top: 0px;
+    height: 36px;
+    margin-top: 0.8%;
+    width: 128px
+}
 #base_nav_ul {
     padding-left: 0;
-    width: 97%
+    width: 115%
 }
 #home_iphone {
     height: 460px;
@@ -291,7 +298,8 @@ option {
 }
 #prvcy-main-txt {
     font: 16px Aller;
-    text-align: center
+    text-align: left;
+    margin-bottom: 64Px;
 }
 .desc-prd {
     text-align: center
@@ -332,4 +340,11 @@ option {
 
 #navbar-b-btn {
     margin-left: 157px;
+}
+#crtcy {
+    float: right;
+}
+.col-sm-4.pri-div-res {
+    padding-left: 7%;
+    padding-right: 7%;
 }
