@@ -18,8 +18,8 @@ title: Freidae Reach Us Page
         <input type="text" class="form-control" id="inputSubject" placeholder="Subject" name="subject" required >
     </div>
     <div class="form-group">
-        <select class="form-control" id="sel1" style="padding-left: 41%;padding-right: 23%;height: 56px;" name="category">
-            <option>Category</option>
+        <select class="form-control" id="sel1" name="category">
+            <option>---Category---</option>
             <option>General</option>
             <option>Request Clarification</option>
             <option>Report Issue</option>
