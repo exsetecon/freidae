@@ -321,7 +321,7 @@ option {
 }
 #prvcy-main-txt {
     font: 16px Aller;
-    text-align: left;
+    text-align: justify;
     margin-bottom: 64Px;
 }
 .desc-prd {
