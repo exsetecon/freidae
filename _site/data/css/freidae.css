@@ -95,8 +95,6 @@ h3 {
     -webkit-transition: all .8s ease-in-out;
 }
 #top_nav_signup {
-    position: fixed;
-    top: 0px;
     height: 36px;
     margin-top: 0.4%;
     width: 128px;
@@ -363,7 +361,7 @@ option {
 }
 
 #navbar-b-btn {
-    margin-left: 157px;
+    margin-left: 44%;
 }
 #crtcy {
     float: right;
@@ -441,3 +439,44 @@ nav.shrink #base_nav_ul {
     padding-right: 23%;
     height: 56px;
 }
+
+.pad8 {
+    padding:8px;
+}
+button.navbar-toggle {
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
+}
+button#navbar-b-btn {
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
+}
+@media(max-width: 991px){
+    nav.shrink #top_nav_signup {
+        margin-top: -4px;
+    }
+    nav.shrink button.navbar-toggle {
+        margin-top: 1%;
+        margin-left: 34px;
+        transition: all .8s ease-in-out;
+        -webkit-transition: all .8s ease-in-out;
+    }
+    nav.shrink button#navbar-b-btn {
+        margin-left: 44%;
+        margin-top: 0.6%;
+        transition: all .8s ease-in-out;
+        -webkit-transition: all .8s ease-in-out;
+    }
+    nav.shrink img#top_nav_appstr {
+        margin-top: -5%;
+    }
+    #home_iphone {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    #inputEmail1_h {
+        margin-left: -2%;
+        margin-right: auto;
+    }
+}
+
