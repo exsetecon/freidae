@@ -32,21 +32,22 @@ h3 {
 .navbar {
     background-color: rgba(255, 255, 255, .45);
     border: 0;
-    transition: all .4s ease-in-out;     -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 .navbar li {
     color: #000;
     height: 60px;
     padding-left: 1%;
     padding-right: 2%;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: #000;
     font-size: 16px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 .navbar-inverse .navbar-nav>li>a:active {
     color: #600;
@@ -60,8 +61,8 @@ h3 {
 }
 #myNavbar {
     min-width: 76px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #top_nav_ul {
     float: right;
@@ -72,41 +73,41 @@ h3 {
     padding-right: 2%;
     text-align: center;
     width: 34%;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #top_nav_logo {
     margin-top: -2%;
     width: 97px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #base_nav_div {
     margin-left: 0;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #top_nav_appstr {
     height: 36px;
     margin-top: 2%;
     width: 128px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #top_nav_signup {
     position: fixed;
     top: 0px;
     height: 36px;
-    margin-top: 0.8%;
+    margin-top: 0.4%;
     width: 128px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #base_nav_ul {
     padding-left: 0;
     width: 115%;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 #home_iphone {
     height: 460px;
@@ -374,55 +375,55 @@ option {
 nav.navbar.navbar-inverse.navbar-fixed-top.shrink {
     height: 38px;
     min-height: 38px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink #top_nav_ul {
     height: 38px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink.navbar-inverse .navbar-nav>li>a {
     color: #000;
     font-size: 14px;
     padding-top: 9px;
     padding-bottom: 9px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink #top_nav_logo {
     margin-top: -2%;
     width: 56px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink #top_nav_signup {
     height: 29px;
     width: 93px;
     margin-top: 4px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink.navbar {
     background-color: rgba(255,255,255,.45);
     border: 0;
     height: 38px!important;
     min-height: 38px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink #myNavbar {
     height: 38px!important;
     min-height: 0px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 nav.shrink #base_nav_ul {
     padding-left: 0;
     width: 115%;
     height: 38px;
-    transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
+    transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
 }
 
 #top_nav_div {
