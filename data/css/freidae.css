@@ -451,6 +451,9 @@ button#navbar-b-btn {
     transition: all .8s ease-in-out;
     -webkit-transition: all .8s ease-in-out;
 }
+#content.textJustify {
+    text-align: justify;
+}
 @media(max-width: 991px){
     nav.shrink #top_nav_signup {
         margin-top: -4px;
